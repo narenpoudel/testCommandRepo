@@ -10,7 +10,10 @@
 
 </head>
 <body>
+
 	<h2>This is another one </h2>
+
+	<h2>Testing for Git</h2>
 	<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
 		<div class="container">
 			<a class="navbar-brand" href="#">APLINE INFO</a>
@@ -30,7 +33,7 @@
 					        </a>
 					        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 					          <a class="dropdown-item" href="#about">Who we are</a>
-					          <a class="dropdown-item" href="#ceo">Message from CEO</a>
+					          <a class="dropdown-item" href="#ceo">Message from </a>
 					        </div>
 					      </li>
 
